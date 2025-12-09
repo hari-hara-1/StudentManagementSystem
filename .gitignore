@@ -12,12 +12,13 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
+.vscode
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+.env
 
 ### NetBeans ###
 /nbproject/private/
